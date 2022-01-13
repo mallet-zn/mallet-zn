@@ -1,9 +1,4 @@
 ## Hello Dev! I'm Matheus Mallet
-
-
-- 🌱 Estudando Nodejs...
-- 📫 Contate-me no email: matheusphilippe.mallet@gmail.com
-- 😄 Pronouns: ele/dele
 ##
 <div align="center">
   <a href="https://github.com/mallet-zn">
